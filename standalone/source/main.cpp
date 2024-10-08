@@ -1,10 +1,10 @@
-import stk.tpl;
+import stk.steer;
 
 using namespace stk;
 
 int main()
 {
-	c_template tpl;
-	tpl.go_template();
+	c_steer steer;
+	steer.steer();
 	return 0;
 }
